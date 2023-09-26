@@ -1,0 +1,25 @@
+{
+  "discord": {
+    "guildid": "YOUR_DISCORD_GUILD_ID",
+    "channelid": "YOUR_DISCORD_CHANNEL_ID",
+    "bot": {
+      "token": "YOUR_DISCORD_BOT_TOKEN",
+      "activity": "Listening to Twitch"
+    }
+  },
+  "twitch": {
+    "streamer-name": "YOUR_TWITCH_STREAMER_NAME",
+    "bot": {
+      "name": "YOUR_TWITCH_BOT_NAME",
+      "access-token": "YOUR_TWITCH_ACCESS_TOKEN",
+      "streamelements-token": "YOUR_STREAMELEMENTS_ACCESS_TOKEN"
+    }
+  },
+  "filter": {
+    "blacklist": [
+      "hurensohn",
+      "bastard",
+      "wichser"
+    ]
+  }
+}
